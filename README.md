@@ -1,1 +1,1 @@
-# ricky_N_morty_webscraping
+rick_n_morthy
